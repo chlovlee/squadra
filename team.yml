@@ -728,6 +728,14 @@ members:
         - contact@bostonhacks.io
         - sponsor@bostonhacks.io
     status: active
+name: Chloe Lee
+    github: 
+      username: chlovlee
+      role: member
+    mailgun:
+      email: leeseo@bu.edu
+      routes:
+    status: active
 mailgun:
   routes:
     - name: contact@bostonhacks.io
